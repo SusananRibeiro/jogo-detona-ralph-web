@@ -29,10 +29,6 @@ Além do jogo principal, este projeto também inclui:
 - Manipulação de eventos JavaScript para detectar cliques nas janelas.
 - Reprodução de áudio no navegador para efeitos sonoros do jogo.
 
-## Contribuindo
-
-Se você quiser contribuir para este projeto, sinta-se à vontade para enviar um pull request. Todas as contribuições são bem-vindas!
-
 ## Licença
 
 Este projeto está licenciado sob a Licença MIT. Consulte o arquivo LICENSE para obter mais detalhes.
